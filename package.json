@@ -1,0 +1,10 @@
+{
+  "name": "storybook-sandbox",
+  "version": "0.0.1",
+  "description": "Simple sandbox for playing with storybook",
+  "main": "src/index.js",
+  "repository": "git@github.com:andyo729/storybook-sandbox.git",
+  "author": "orahoske.2@gmail.com",
+  "license": "MIT",
+  "private": false
+}
